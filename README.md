@@ -1,8 +1,7 @@
-👋 Hi, I’m **Syed Sameer S** – a Data Analytics professional and aspiring **Microsoft Fabric Data Engineer** with hands-on experience in **SQL, Power BI, Excel, and Azure**.
+👋 Hi, I’m **Syed Sameer S** – a Data Analytics professional and aspiring **Microsoft Fabric Data Engineer** with hands-on experience in **SQL, Power BI, Excel, Python and Azure**.
 
 🔹 Currently working as a **Data Processing Analyst at NielsenIQ**, where I build dashboards, optimize ETL pipelines, and deliver actionable business insights.
 🔹 Skilled in **data cleaning, visualization, and automation** with tools like Power BI, Tableau, and Python (Pandas, Matplotlib).
-🔹 Pursuing **Microsoft DP-700 (Fabric Data Engineer Associate)** to strengthen my expertise in modern cloud data engineering.
 
 ---
 
