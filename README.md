@@ -1,4 +1,4 @@
-👋 Hi, I’m **Syed Sameer S** –Data Analyst with 1.7 years of experience at NielsenIQ in data processing, SQL analysis, Power BI dashboarding, and reporting automation. Skilled in transforming data into actionable business insights, optimizing SQL workflows, and collaborating with stakeholders. Proficient in Excel, Power BI, SQL, and Python with a certification in Microsoft Azure Data Fundamentals (DP-900).
+👋 Hi, I’m **Syed Sameer S** –Data Analyst with 2 years of experience at NielsenIQ in data processing, SQL analysis, Power BI dashboarding, and reporting automation. Skilled in transforming data into actionable business insights, optimizing SQL workflows, and collaborating with stakeholders. Proficient in Excel, Power BI, SQL, and Python with a certification in Microsoft Azure Data Fundamentals (DP-900).
 
 🔹 Currently working as a **Data Processing Analyst at NielsenIQ**, where I build dashboards, optimize ETL pipelines, and deliver actionable business insights.
 🔹 Skilled in **data cleaning, visualization, and automation** with tools like Power BI, Tableau, and Python (Pandas, Matplotlib).
