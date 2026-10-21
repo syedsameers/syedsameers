@@ -100,14 +100,6 @@ Pure SQL analytics project computing business KPIs — top-selling SKUs, peak re
 Analyzed a real-world survey of data professionals to visualize salary trends, tool preferences, job satisfaction, and career entry difficulty — built with Power BI using cleaned and transformed survey data.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedsameers&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsameers&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
 ---
 
 ## 🏅 Certifications
