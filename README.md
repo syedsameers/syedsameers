@@ -55,50 +55,53 @@
 
 ## 📂 Featured Projects
 
+### 🛒 [E-Commerce Customer 360 — Microsoft Fabric Medallion Architecture](https://github.com/syedsameers/ecom-fabric-medallion-analytics)
+> **Microsoft Fabric · ADLS Gen2 · PySpark · Delta Lake · Direct Lake · Power BI** ⭐ *Latest*
+
+End-to-end cloud data engineering solution built on **Medallion Architecture (Bronze → Silver → Gold)**. Ingests multi-channel e-commerce data from ADLS Gen2 via Fabric Data Factory, processes through PySpark Spark Notebooks for cleansing and transformation, and serves a unified **Customer 360** model in Power BI via Direct Lake.
+
+- 🏗️ Pipeline: ADLS Gen2 → Fabric Data Factory (ForEach) → Bronze → Silver → Gold → Direct Lake → Power BI
+- ⚡ PySpark transformations: email cleaning, date standardisation (regex), deduplication, 5-entity denormalization
+- 📊 KPIs: Customer Acquisition, Revenue & AOV trends, Order Fulfilment, Support & Retention metrics
+
+---
+
 ### 🛡️ [Cyber Security Analytics — Microsoft Fabric & Power BI](https://github.com/syedsameers/cyber-security-fabric-analytics)
 > **Microsoft Fabric · Dataflow Gen2 · OneLake · Direct Lake · Power BI · SQL Server**
 
-End-to-end hybrid analytics solution ingesting on-premises SQL Server records into **Microsoft Fabric Lakehouse** via **Dataflow Gen2**, modeled in **Direct Lake mode** using a star schema, and visualized in Power BI.
+End-to-end hybrid analytics ingesting on-premises SQL Server records into Fabric Lakehouse via Dataflow Gen2, modeled in Direct Lake mode (star schema), and visualized in Power BI.
 
-- 🏗️ Architecture: MS SQL Server → On-Premises Gateway → Dataflow Gen2 → OneLake → Direct Lake Semantic Model → Power BI Dashboard
-- 📐 Star schema with **6 dimension tables** and **4 fact tables** (incidents, firewall uptime, patch compliance, security posture)
-- 📊 KPIs: Total Incident Volume & YoY Trend, MTTR, Threat Actor Attribution, Attack Vector Distribution
+- 🏗️ Architecture: MS SQL Server → On-Premises Gateway → Dataflow Gen2 → OneLake → Direct Lake → Power BI
+- 📐 Star schema: 6 dimension tables + 4 fact tables
+- 📊 KPIs: Incident Volume & YoY Trend, MTTR, Threat Actor Attribution, Attack Vector Distribution
 
 ---
 
 ### 🍕 [Pizza Sales Dashboard — Power BI + SQL](https://github.com/syedsameers/Pizza-Sales-Dashboard-using-Power-BI)
 > **Power BI · SQL Server · KPI Reporting**
 
-End-to-end pizza sales analytics — SQL for data extraction and KPI computation, Power BI for interactive dashboard. Covers top-selling pizzas, peak revenue hours, order frequency by category, and revenue trends to support menu and pricing optimization.
+End-to-end sales analytics — SQL for data extraction and KPI computation, Power BI for interactive dashboard. Covers top-selling pizzas, peak revenue hours, order frequency by category, and revenue trends.
 
 ---
 
-### 🌦️ [4-City Weather & Air Quality Dashboard — Power BI](https://github.com/syedsameers/4-City-Weather-Air-Quality-Dashboard-in-Power-BI)
+### 🌦️ [4-City Weather & Air Quality Dashboard](https://github.com/syedsameers/4-City-Weather-Air-Quality-Dashboard-in-Power-BI)
 > **Power BI · REST API · Power Query · Real-Time Data**
 
-Real-time dashboard connecting live Weather and AQI APIs via Power Query. Monitors temperature, humidity, and air quality KPIs across **4 major Indian cities** with fully automated refresh — zero manual data pulls.
+Real-time dashboard connecting live Weather and AQI APIs via Power Query. Monitors KPIs across 4 major Indian cities with fully automated refresh — zero manual data pulls.
 
 ---
 
 ### 🛍️ [Diwali Sales EDA — Python](https://github.com/syedsameers/Exploratory-Data-Analysis-with-Python)
 > **Python · Pandas · NumPy · Matplotlib · EDA**
 
-Exploratory data analysis on Diwali sales dataset to uncover high-value customer segments, top product categories, and purchasing patterns — insights to support targeted festive campaign recommendations.
+EDA on Diwali sales dataset to uncover high-value customer segments, top product categories, and purchasing patterns to support targeted festive campaign recommendations.
 
 ---
 
 ### 🍕 [Pizza Sales SQL Analysis](https://github.com/syedsameers/Pizza-Sales-SQL-Analysis)
 > **SQL Server · Advanced Queries · KPI Reporting**
 
-Pure SQL analytics project computing business KPIs — top-selling SKUs, peak revenue hours, order frequency by category, and sales trends — using joins, CTEs, and aggregations on a real sales dataset.
-
----
-
-### 📋 [Data Professionals Survey — Power BI](https://github.com/syedsameers/Data-Professionals-Survey-Report-Using-Power-BI.)
-> **Power BI · Data Cleaning · Survey Analytics**
-
-Analyzed a real-world survey of data professionals to visualize salary trends, tool preferences, job satisfaction, and career entry difficulty — built with Power BI using cleaned and transformed survey data.
-
+Pure SQL analytics computing business KPIs using joins, CTEs, and aggregations on a real pizza sales dataset.
 ---
 ---
 
