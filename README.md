@@ -56,7 +56,7 @@ I work as a **Data Operations Analyst at NielsenIQ**, where I build Power BI rep
 
 ## 📂 Featured Projects
 
-### 🏗️ (https://github.com/syedsameers/Azure-End-to-End-Project-Adventure-Work-Dataset) AdventureWorks: Azure End-to-End Data Engineering
+### 🏗️ AdventureWorks: Azure End-to-End Data Engineering- https://github.com/syedsameers/Azure-End-to-End-Project-Adventure-Work-Dataset
 **`Azure Data Factory` · `ADLS Gen2` · `Azure Databricks` · `PySpark` · `Microsoft Entra ID`**
 
 A metadata-driven Azure pipeline built on the AdventureWorks dataset.
